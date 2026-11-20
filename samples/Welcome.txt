@@ -1,0 +1,15 @@
+FILE QUEST
+==========
+A little arcade for your files.
+
+Choose a folder on the left.
+Preview its contents on the right.
+
+UP / DOWN     Select
+ENTER         Open
+BACKSPACE     Parent folder
+H             Dot files
+S             Sound
+F5            Refresh
+
+Your next quest starts here.
