@@ -4,7 +4,11 @@ A compact retro file browser built with Python and Pygame. Neon panels, CRT scan
 
 ![File Quest screenshot](docs/screenshot.png)
 
-## Run on Windows
+## Download for Windows
+
+[Download the latest Windows installer](https://github.com/Whitich/file-quest/releases/latest). Choose FileQuest-Setup for installation or the portable ZIP to run without installing. Python is included. The binaries are unsigned; Windows may display an unknown publisher warning.
+
+## Run from source on Windows
 
 Install Python 3.12 or newer, then run:
 
@@ -46,3 +50,4 @@ Windows is the primary target. macOS/Linux opening hooks exist but have not been
 ## Türkçe
 
 Retro görünümlü yerel dosya gezgini. Metin/görsel önizlemesi, fare ve klavye kontrolü, açılıp kapatılabilen sesler içerir. Dosyaları değiştirmez veya silmez; Enter/çift tık dosyayı sistemin varsayılan uygulamasıyla açar. Kurulum için yukarıdaki komutları kullanabilirsiniz.
+
